@@ -1,0 +1,15 @@
+body{
+   width: 960px;
+   margin: 20px auto;
+  
+   font-family: Arial, Helvetica, sans-serif;
+   background-color:white;
+    
+
+}
+a:hover {
+   color: cadetblue;
+}
+a:checked{
+   color: whitesmoke;
+}
